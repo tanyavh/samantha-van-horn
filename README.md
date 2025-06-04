@@ -8,7 +8,7 @@ Incident Response Handler
 
 ## Projects
 - Kali Home Lab
-- Python script for Weather Automated Alerts
+- Weather-Monitor (Python script for weather monitoring with automated alerts)
   
 ## Tools
 ### Cyber Investigations
